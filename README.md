@@ -1,2 +1,2 @@
-# fortOG.lol
-for a html website code
+discord bot thingy
+made by .x06q on discord
