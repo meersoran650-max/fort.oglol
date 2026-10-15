@@ -1,2 +1,1 @@
-this is a minecraft PE edition for a project im working on
-Mobile Windows Supported!
+this is a ps3 fortnite editon im making.
